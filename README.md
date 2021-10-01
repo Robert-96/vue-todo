@@ -4,26 +4,26 @@ A simple demo app.
 
 ## Project setup
 
-```
-npm install
+```console
+$ npm install
 ```
 
 ### Compiles and hot-reloads for development
 
-```
-npm run serve
+```console
+$ npm run serve
 ```
 
 ### Compiles and minifies for production
 
-```
-npm run build
+```console
+$ npm run build
 ```
 
 ### Lints and fixes files
 
-```
-npm run lint
+```console
+$ npm run lint
 ```
 
 ### Customize configuration
