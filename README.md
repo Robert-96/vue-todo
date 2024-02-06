@@ -1,29 +1,31 @@
 # vue-todo
 
-A simple demo app.
+A simple demo app build with [Vue.js](https://vuejs.org/).
+
+![Screenshot](/screenshots/screenshot.png)
 
 ## Project setup
 
 ```console
-$ npm install
+npm install
 ```
 
 ### Compiles and hot-reloads for development
 
 ```console
-$ npm run serve
+npm run serve
 ```
 
 ### Compiles and minifies for production
 
 ```console
-$ npm run build
+npm run build
 ```
 
 ### Lints and fixes files
 
 ```console
-$ npm run lint
+npm run lint
 ```
 
 ### Customize configuration
