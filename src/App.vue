@@ -45,7 +45,7 @@
     </section>
     <footer class="footer" v-show="todos.length" v-cloak>
       <span class="todo-count">
-        <strong>{{ remaining }}</strong> {{ pluralize(remaining) }} left
+        <strong id="item-counter">{{ remaining }}</strong> {{ pluralize(remaining) }} left
       </span>
       <ul class="filters">
         <li>
